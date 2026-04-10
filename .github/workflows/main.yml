@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'satrioxaji'
         required: true
-        default: 'gsatrioxaji'
+        default: 'satrioxaji'
       agent_description:
         description: 'satrioxaji'
         required: true
